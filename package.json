@@ -1,0 +1,32 @@
+{
+  "name": "prior-ephemera",
+  "version": "0.1.0",
+  "description": "A playground for prior ephemera via photos.",
+  "homepage": "https://github.com/janson/prior-ephemera#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janson/prior-ephemera.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janson/prior-ephemera/issues"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "11.0.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "7.29.0",
+    "eslint-config-next": "11.0.0"
+  }
+}
